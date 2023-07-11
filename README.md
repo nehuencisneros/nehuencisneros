@@ -1,11 +1,15 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=500&color=F7EE33&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hello+world!+i'm+Nehuen+Cisneros;A+Full+Stack+Developer" alt="Typing SVG" /></a>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=500&color=F7EE33&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hello+world!+i'm+Nehuen+Cisneros;A+Full+Stack+Developer" alt="Typing SVG" />
+</h1>
 
-
+<div align="center">
 - I’m currently working on **Wallet Wise App**
 
 - Learning about **Typescript, Redux Toolkit and React Native**
 
 - How to reach me **nehuen.b.cisneros@gmail.com**
+
+  </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
