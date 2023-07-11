@@ -1,11 +1,13 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=500&color=F7EE33&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hello+world!+i'm+Nehuen+Cisneros;A+Full+Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=500&color=F7EE33&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hello+world+👋!+i'm+Nehuen+Cisneros;A+Full+Stack+Developer" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-I’m currently working on **Wallet Wise App**,
+I’m currently working on **Wallet Wise App**
+  
 Learning about **Typescript, Redux Toolkit and React Native**
-Fun fact, my cat likes to sleep over the keyboard.
+
+Fun fact **my cat likes to sleep over the keyboard**
 </div>
 
 <div align="center">
