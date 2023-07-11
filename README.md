@@ -1,4 +1,4 @@
-![Snake](https://github.com/nehuencisneros/nehuencisneros/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/nehuencisneros/nehuencisneros/blob/output/github-contribution-grid-snake2.svg)
 
 <h1 align="center">Hi 👋, I'm Nehuen Cisneros</h1>
 <h3 align="center">Full Stack Developer👨‍💻</h3>
