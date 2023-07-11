@@ -3,8 +3,8 @@
 </h1>
 
 <div align="center">
-I’m currently working on **Wallet Wise App**
-  
+I’m currently working on **Wise Wallet app**
+
 Learning about **Typescript, Redux Toolkit and React Native**
 
 Fun fact **my cat likes to sleep over the keyboard**
