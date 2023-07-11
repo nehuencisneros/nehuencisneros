@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F7EE33&width=435&lines=Hello+world!+i'm+Nehuen+Cisneros;A+Full+Stack+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=500&color=F7EE33&center=true&multiline=true&width=435&lines=Hello+world!+i'm+Nehuen+Cisneros;A+Full+Stack+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehuencisneros&label=Profile%20views&color=0e75b6&style=flat" alt="nehuencisneros" /> </p>
 
