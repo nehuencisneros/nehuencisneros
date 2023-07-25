@@ -6,7 +6,9 @@
   
 I’m currently working on **Wise Wallet app**
 
-Learning about **Typescript, Redux Toolkit and React Native**
+Learning about **MERN Stack and Typescript**
+
+My last proyect **https://deploy-countries-pi-hslh.vercel.app/**
 
 Fun fact **my cat likes to sleep over the keyboard**
 
