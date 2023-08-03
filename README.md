@@ -6,7 +6,7 @@
   
 I’m currently working on **Wise Wallet app**
 
-Learning about **MERN Stack and Typescript**
+Learning about **NestJS and MERN Stack with Material UI**
 
 My last proyect **https://deploy-countries-pi-hslh.vercel.app/**
 
