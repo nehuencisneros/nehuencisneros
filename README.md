@@ -4,9 +4,9 @@
 
 <div align="center">
   
-I’m currently working on **Wise Wallet app**
+I’m currently working on **MUI Movies**
 
-Learning about **NestJS and MERN Stack with Material UI**
+Learning about **Docker and MERN Stack with Material UI**
 
 My last proyect **https://deploy-countries-pi-hslh.vercel.app/**
 
